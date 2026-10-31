@@ -20,7 +20,6 @@ auto                      auto     /devices/soc/11270000.usb3_xhci*             
 /lcm_info                 emmc     /dev/block/platform/mtk-msdc.0/11230000.msdc0/by-name/lcm_info     flags=display=lcm_info
 /bootloader2              emmc     /dev/block/platform/mtk-msdc.0/11230000.msdc0/by-name/lk2          flags=display=bootloader2
 /bootloader               emmc     /dev/block/platform/mtk-msdc.0/11230000.msdc0/by-name/lk           flags=display=bootloader
-/boot                     emmc     /dev/block/platform/mtk-msdc.0/11230000.msdc0/by-name/boot         flags=display=boot
 /md1img                   emmc     /dev/block/platform/mtk-msdc.0/11230000.msdc0/by-name/md1img       flags=display=md1img
 /md1dsp                   emmc     /dev/block/platform/mtk-msdc.0/11230000.msdc0/by-name/md1dsp       flags=display=md1dsp
 /md1arm7                  emmc     /dev/block/platform/mtk-msdc.0/11230000.msdc0/by-name/md1arm7      flags=display=md1arm7
